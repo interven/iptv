@@ -104,3 +104,29 @@ https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 EXTINF:-1 tvg-id="TVes.ve",TVes (1080p) [Not 24/7]
 https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CaminosMedia.ve",Caminos Media TV (1080p)
+https://streamtv.intervenhosting.net:3029/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.ve",Fortuna TV (1080p)
+https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.ve@SD",GlobalTV (480p)
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3592/stream/play.m3u8
+#EXTINF:-1 tvg-id="InterTV.ve",interTV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-id="LaraenRedes.ve",Lara en Redes TV (1080p)
+https://streamtv.intervenhosting.net:3763/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="LGDTelevision.ve",LGD Television (720p)
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve",PortuTV (480p)
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-id="Telecentro.ve",Telecentro (720p)
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-id="TVMparati.ve",TVM para ti (1080p)
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
